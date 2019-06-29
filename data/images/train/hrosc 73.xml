@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hrosci</folder>
+	<filename>hrosc 73.jpg</filename>
+	<path>C:\Users\Edvard\venv\Slike\downloads\hrosci\hrosc 73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hrosc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>182</ymin>
+			<xmax>457</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>
